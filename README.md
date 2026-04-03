@@ -1,1 +1,1 @@
-# my-internship-project
+# infosys-internship-project
